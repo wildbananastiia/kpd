@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82751949006",
+    "firebase_url": "https://kpd-ua.firebaseio.com",
+    "project_id": "kpd-ua",
+    "storage_bucket": "kpd-ua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82751949006:android:612ff6bfde03f7c5ba289f",
+        "android_client_info": {
+          "package_name": "com.kpd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82751949006-dhveapjjcj25kgt64qjt82jjmsn0d9i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kpd",
+            "certificate_hash": "37583f8c36520ede75512e97cd68306efe7290f9"
+          }
+        },
+        {
+          "client_id": "82751949006-7m9up893co4j39ijnl0qrs7ch0uj3toe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdthotAiayJ7Hl1w_HGtXqx9I9uuUKMIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82751949006-7m9up893co4j39ijnl0qrs7ch0uj3toe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
